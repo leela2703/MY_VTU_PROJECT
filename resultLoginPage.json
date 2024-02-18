@@ -1,0 +1,25 @@
+{
+    "resultLoginPage":[
+        {
+            "_id":1,
+            "registerId":"1ST19CS221",
+            "studentName":"Riya K",
+            "FatherName":"Krishna Gowda",
+            "collegeName":"Oxford University"
+        },
+        {
+            "_id":2,
+            "registerId":"1ST19CV103",
+            "studentName":"Madhuri M",
+            "FatherName":"Ajay Bhat",
+            "collegeName":"Oxford University"
+        },
+        {
+            "_id":3,
+            "registerId":"1ST19EC406",
+            "studentName":"Sam Smith",
+            "FatherName":"Robert Mark",
+            "collegeName":"Oxford University"
+        }
+    ]
+}
