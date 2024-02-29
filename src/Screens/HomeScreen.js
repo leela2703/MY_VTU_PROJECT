@@ -64,7 +64,8 @@ const HomeScreen = () => {
                     manpower, responsive to technological and societal needs.
                     </p>
 
-                    <Button variant="warning">Read More</Button>
+                    <Link to='/about' className="btn btn-warning">Read More </Link>
+                    {/* <Button variant="warning">Read More</Button> */}
                     
                 </Col>
 
@@ -99,7 +100,8 @@ const HomeScreen = () => {
                     manpower, responsive to technological and societal needs.
                     </p>
 
-                    <Button variant="warning">Read More</Button>
+                    <Link to='/about' className="btn btn-warning">Read More </Link>
+                    {/* <Button variant="warning">Read More</Button> */}
                     
                 </Col>
             </Row>

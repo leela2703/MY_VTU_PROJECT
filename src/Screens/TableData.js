@@ -64,7 +64,7 @@ const TableData = ({studentId}) => {
             
     }
     const findPercentage = () => {
-        let obtained = getTotalMarks('obtained_mark')
+        let obtained = getTotalMarks('obtained_marks')
         let max = getTotalMarks('max_marks')
         let x= '%',
         percent = Math.floor((obtained / max) * 100)
